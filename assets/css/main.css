@@ -95,7 +95,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1b1f22;
+		background-color:royalblue;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -260,7 +260,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(255, 255, 255, 0.075);
+		background: royalblue;
 		border-radius: 4px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9rem;
@@ -425,7 +425,7 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			background: rgba(255, 255, 255, 0.075);
+			background: royalblue;
 			border-color: #ffffff;
 			box-shadow: 0 0 0 1px #ffffff;
 		}
@@ -442,7 +442,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #1b1f22;
+			background: royalblue;
 		}
 
 		select:focus::-ms-value {
@@ -1158,7 +1158,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("/images/NewBG.jpg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
