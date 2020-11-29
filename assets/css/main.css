@@ -1537,6 +1537,11 @@ input, select, textarea {
 		z-index: 3;
 	}
 
+	.google-map iframe {
+		min-width: 100%;
+		min-height: 450px;
+	}
+
 		#main article {
 			-moz-transform: translateY(0.25rem);
 			-webkit-transform: translateY(0.25rem);
